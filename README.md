@@ -1,5 +1,2 @@
-
-# Greenhouse-Gases-Influence-in-Temperature
-# Greenhouse-Gases-Influence-in-Temperature
-# Greenhouse-Gases-Influence-in-Temperature
-# Rent-web-scraping
+In this repository a rent price estimator app will be developed.
+First of all, a web scraping algorithm is used to collect the data used in the model.
